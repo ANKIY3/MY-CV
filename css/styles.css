@@ -1,0 +1,31 @@
+body {
+  background-color: #71C9CE;
+}
+
+h1 {
+  color: #222831;
+  font-family: serif;
+}
+
+h2 {
+  color: #222831;
+  font-family: sans-serif;
+}
+
+hr {
+
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  width: 5%;
+}
+.text{
+  text-decoration: underline;
+}
+.text2{
+  text-decoration: none;
+  margin-right: 15px;
+}
+.text2:hover{
+  color: RED;
+}
